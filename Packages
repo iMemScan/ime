@@ -1,5 +1,6 @@
 Package: com.yiming.iMemScan
 Version: 1.25
+Name: iMemScan
 Architecture: iphoneos-arm
 Maintainer: Anonymous
 Installed-Size: 103
@@ -7,6 +8,6 @@ Depends:
 Conflicts: 
 Filename: ./deb/com.yiming.iMemScan.deb
 Section: System
-Description: Allow extensions to read the list of installed apps
+Tag: role::hacker
+Description: 调试内存工具 / Debug memory tools.
 Author: Anonymous
-Name: iMemScan
