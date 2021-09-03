@@ -9,7 +9,7 @@ Architecture: iphoneos-arm
 Description: 调试内存工具 / Debug memory tools.
 Maintainer: Anonymous
 Author: Anonymous
-Section: System
+Section: iMemScan
 Tag: role::hacker
 Depiction:
 Dev:
