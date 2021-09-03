@@ -3,8 +3,8 @@ Version: 1.25
 Architecture: iphoneos-arm
 Maintainer: Anonymous
 Installed-Size: 780
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
-Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Depends: 
+Conflicts: 
 Filename: ./deb/com.yiming.iMemScan.deb
 Size: 104730
 Section: System
