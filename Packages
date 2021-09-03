@@ -6,7 +6,7 @@ Installed-Size: 780
 Depends: iMemScan is a memory editor for iOS 13 to 15.x.
 Filename: ./debs/iMemScan.deb
 Section: iMemScan
-Siza:496188
+Siza:196188
 Description: 支持12～15.x
 Author: Suixin <yuejian666521@163.com>
 Dev: rpetrich
