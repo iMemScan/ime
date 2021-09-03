@@ -9,6 +9,4 @@ Filename: ./deb/com.yiming.iMemScan.deb
 Section: System
 Description: Allow extensions to read the list of installed apps
 Author: Anonymous
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 Name: iMemScan
-Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
