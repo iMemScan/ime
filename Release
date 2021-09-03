@@ -1,7 +1,7 @@
 Origin: iMemScan
 Label: iMemScan
 Suite: stable
-Version: 1.0
+Version: 1.25
 Architectures: iphoneos-arm
 Components: main
 Description: iMemScan
