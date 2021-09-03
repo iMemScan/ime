@@ -2,7 +2,7 @@ Package: com.yiming.iMemScan
 Version: 1.25
 Architecture: iphoneos-arm
 Maintainer: Anonymous
-Installed-Size: 780
+Installed-Size: 103
 Depends: 
 Conflicts: 
 Filename: ./deb/com.yiming.iMemScan.deb
