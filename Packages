@@ -1,4 +1,4 @@
-Package: applist
+Package: sdasdas.iMemScan
 Version: 1.5.15~beta1
 Architecture: iphoneos-arm
 Maintainer: Ryan Petrich <rpetrich@gmail.com>
@@ -15,5 +15,5 @@ Description: Allow extensions to read the list of installed apps
 Author: Ryan Petrich <rpetrich@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 Dev: rpetrich
-Name: AppList
+Name: iMemScan
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
