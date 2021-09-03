@@ -6,7 +6,6 @@ Installed-Size: 103
 Depends: 
 Conflicts: 
 Filename: ./deb/com.yiming.iMemScan.deb
-Size: 104730
 Section: System
 Description: Allow extensions to read the list of installed apps
 Author: Anonymous
