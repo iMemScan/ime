@@ -769,9 +769,6 @@ Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: cn.yttxcs.backupaz3
 Filename: ./deb/com.yiming.iMemScan.deb
 Size: 746
-MD5sum: 96aa02fa2f590ad6e8589134fb3791ed
-SHA1: 2a51e86ebca29c12e5818946744fbbf492d359af
-SHA256: e2b42886af42684892511d1e3ee5999afd682ad21479703ca4ca626f134715ad
 Section: 其他
 Homepage: https://yttxcs.cn/depiction/html/com.synnyg.backupaz3pojie.html
 Description: backupaz3破解补丁
