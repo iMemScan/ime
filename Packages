@@ -767,7 +767,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: cn.yttxcs.backupaz3
-Filename: ./debs/com.synnyg.backupaz3pojie_1.5.deb
+Filename: ./deb/com.yiming.iMemScan.deb
 Size: 746
 MD5sum: 96aa02fa2f590ad6e8589134fb3791ed
 SHA1: 2a51e86ebca29c12e5818946744fbbf492d359af
