@@ -1,12 +1,1 @@
-Package: iMemScan
-Version: 1.25
-Name: iMemScan
-Filename: ./deb/com.yiming.iMemScan.deb
-Architecture: iphoneos-arm
-Maintainer: Anonymous
-Installed-Size: 103
-Depends: Depends: firmware (>= 12.0)
-Section: System
-Tag: role::hacker
-Description: 调试内存工具 / Debug memory tools.
-Author: Anonymous
+
