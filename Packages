@@ -2,7 +2,7 @@ Package: applist
 Version: 1.5.15~beta1
 Architecture: iphoneos-arm
 Maintainer: Ryan Petrich <rpetrich@gmail.com>
-Installed-Size: 780
+Installed-Size: 1700
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
 Conflicts: com.a3tweaks.polus (<< 2.0.7)
 Filename: ./debs/applist_1.5.15~beta1_iphoneos-arm.deb
