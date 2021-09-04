@@ -7,7 +7,7 @@ Size: 1707544
 MD5sum: 859555abb2520e2adc52db8d1e1ee204
 SHA1: 25cc080e3b592c95ee095854fa26300e8e383e7f
 SHA256: e2ed7a9da19b574d4eedcff805b02154f6142b9a929550af85991e6eee1a18c1
-Section: System
+Section: iMemScan
 Description: 调试内存工具 / Debug memory tools.
 Tag: role::hacker
 Author: Anonymous
@@ -24,7 +24,7 @@ Size: 473976
 MD5sum: c500852a3aa0bdb385655dc40992b350
 SHA1: eb4028c329a3aa6d693aae6349905a6e277bd031
 SHA256: 6f66336f5509d52efeee2917852dfe2cd94defc7a7207d7766362f7b8a4f7247
-Section: Utilities
+Section: iGG/iMe
 Priority: optional
 Homepage: https://igg-server.herokuapp.com/
 Description: iGameGuardian is a memory editor for iOS 8 to 10.
@@ -46,7 +46,7 @@ Size: 538064
 MD5sum: 29b92395993e376d6ceb3e49c6cf8b21
 SHA1: dd457d75d94dfa2e27e31a69eade6f41906f9062
 SHA256: 8d32f331bc6b4e8802e7cf402248afb1572ca14c6cfc0318b8f93973a6258b2c
-Section: Utilities
+Section: iGG/iMe
 Priority: optional
 Homepage: https://igg-server.herokuapp.com/
 Description: iMemEditor is a memory editor for iOS 11 to 13.
