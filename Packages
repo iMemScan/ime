@@ -2,7 +2,7 @@ Package: com.yiming.iMemScan
 Version: 1.2.5
 Architecture: iphoneos-arm
 Maintainer: Anonymous
-Filename: ime/debs/com.yiming.iMemScan.deb
+Filename: ./debs/com.yiming.iMemScan.deb
 Size: 1707544
 MD5sum: 859555abb2520e2adc52db8d1e1ee204
 SHA1: 25cc080e3b592c95ee095854fa26300e8e383e7f
